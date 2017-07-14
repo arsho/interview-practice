@@ -28,6 +28,6 @@ Guaranteed constraints:
 
 The first non-repeating character in s, or '_' if there are no characters that do not repeat.
 
-####Reference
+#### Reference
 
 https://codefights.com/interview-practice/task/uX5iLwhc6L5ckSyNC

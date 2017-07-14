@@ -29,6 +29,6 @@ Guaranteed constraints:
 The element in a that occurs in the array more than once and has the minimal index for its second occurrence. 
 If there are no such elements, return -1.
 
-####Reference
+#### Reference
 
 https://codefights.com/interview-practice/task/pMvymcahZ8dY4g75q

@@ -25,6 +25,6 @@ a[i].length = a.length,
 
 [output] array.array.integer
 
-####Reference
+#### Reference
 
 https://codefights.com/interview-practice/task/5A8jwLGcEpTPyyjTB
