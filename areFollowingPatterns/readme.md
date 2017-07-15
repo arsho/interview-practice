@@ -34,3 +34,7 @@ patterns.length = strings.length,
 * [output] boolean
 
 * Return true if strings follows patterns and false otherwise.
+
+### Reference
+
+https://codefights.com/interview-practice/task/3PcnSKuRkqzp8F6BN
