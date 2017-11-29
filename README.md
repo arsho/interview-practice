@@ -1,7 +1,7 @@
 # Interview Practice
 * Algorithm
 * Sample_Interview_Questions 	
-* codefights
+* Codefights
 
 
 ### The solutions are not optimal in all cases. Feel free to contribute. 
