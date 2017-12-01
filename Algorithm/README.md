@@ -1,8 +1,7 @@
-# Interview Practice
-Interview practice problems with solutions. 
-The problems are asked by Google, Amazon, Microsoft, Uber, Apple and others tech giants.
+# Practice Problem Solution
+* [FactorialTrailingZeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+* [bfsDistancesUnweightedGraph](http://www.shafaetsplanet.com/planetcoding/?p=604) 	
+*  [bfsDistancesWeightedGraph](http://www.shafaetsplanet.com/planetcoding/?p=1500)
+* dfsTraverseTree
 
-***
-
-### The solutions are not optimal in all cases. Feel free to contribute. 
-Contact for collaboration: <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a>
+ 

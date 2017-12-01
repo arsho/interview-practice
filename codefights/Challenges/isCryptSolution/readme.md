@@ -73,3 +73,4 @@ solution[i][1] ? solution[j][1], i ? j.
 * [output] boolean
 
 * Return true if the solution represents the correct solution to the cryptarithm crypt, otherwise return false.
+[https://codefights.com/interview-practice/task/yM4uWYeQTHzYewW9H/solutions](https://codefights.com/interview-practice/task/yM4uWYeQTHzYewW9H/solutions)

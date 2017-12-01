@@ -1,8 +1,15 @@
-# Interview Practice
-Interview practice problems with solutions. 
-The problems are asked by Google, Amazon, Microsoft, Uber, Apple and others tech giants.
-
-***
-
-### The solutions are not optimal in all cases. Feel free to contribute. 
-Contact for collaboration: <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a>
+# Codefight Interview Paractic
+* [addTwoHugeNumbers](https://codefights.com/interview-practice/task/RvDFbsNC3Xn7pnQfH/)
+* [amendTheSentence](https://codefights.com/interview-practice/task/yXDg4rAk9ooEjLjdj/)
+* [areFollowingPatterns](https://codefights.com/interview-practice/task/3PcnSKuRkqzp8F6BN)
+* [containsCloseNums](https://codefights.com/interview-practice/task/njfXsvjRthFKmMwLC)
+* [findFirstSubstringOccurrence](https://codefights.com/interview-practice/task/C8Jdyk3ybixqQdAvM/)
+* [firstDuplicate](https://codefights.com/interview-practice/task/pMvymcahZ8dY4g75q)
+* [firstNotRepeatingCharacter](https://codefights.com/interview-practice/task/uX5iLwhc6L5ckSyNC)
+* [groupingDishes](https://codefights.com/interview-practice/task/xrFgR63cw7Nch4vXo/)
+* [isCryptSolution](https://codefights.com/interview-practice/task/yM4uWYeQTHzYewW9H/solutions)
+* [isListPalindrome](https://codefights.com/interview-practice/task/HmNvEkfFShPhREMn4)
+* [mergeTwoLinkedLists](https://codefights.com/interview-practice/task/6rE3maCQwrZS3Mm2H/)
+* [removeKFromList](https://codefights.com/interview-practice/task/gX7NXPBrYThXZuanm/)
+* [rotateImage](https://codefights.com/interview-practice/task/5A8jwLGcEpTPyyjTB)
+* [sudoku2](https://codefights.com/interview-practice/task/SKZ45AF99NpbnvgTn/description)
